@@ -6,7 +6,7 @@ this is the fifth line
 this is the sixth line
 this is the seventh line
 this is a line that was added on github
-
+this was a file on the side branch
 git init // initalizating git
 git add . // adding the files and folders in the wroking directory to git (i.e. ,
 git commit -m "comment" // commiting the stages to the git repo
